@@ -14,13 +14,13 @@
    <br />
    <strong>Version: </strong>1.0
    <br />
-   <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T480/releases"><strong>Download now (Coming 11/29) »</strong></a>
+   <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T14-Gen 1-Intel/releases"><strong>Download now »</strong></a>
    <br />
    <a 
    <br />
-   <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T14-Gen-1-Intel/issues">Report Bug (Coming 11/29) </a>
+   <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T14-Gen-1-Intel/issues">Report Bug</a>
    <br />  
-   <a href="https://github.com/valnoxy/t480-oc/blob/main/CHANGELOG.md">View Changelog</a>
+   <a href="https://github.com/valnoxy/t480-oc/blob/main/CHANGELOG.md">View Changelog (Coming Soon)</a>
    <br />
    <a href="http://linktr.ee/mastertwinsofficial">🥋🎧 Book us to elevate your next event! 🔥😎</a>  
   </p>

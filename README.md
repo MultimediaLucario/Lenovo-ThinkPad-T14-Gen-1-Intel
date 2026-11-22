@@ -14,7 +14,7 @@
    <br />
    <strong>Version: </strong>1.0
    <br />
-   <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T14-Gen 1-Intel/releases"><strong>Download now »</strong></a>
+   <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T14-Gen-1-Intel/releases"><strong>Download now »</strong></a>
    <br />
    <a 
    <br />

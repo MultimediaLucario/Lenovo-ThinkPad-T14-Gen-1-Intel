@@ -7,7 +7,7 @@
 [![macOS](https://img.shields.io/badge/macOS-Ventura-orange.svg)](https://developer.apple.com/documentation/macos-release-notes)
 [![macOS](https://img.shields.io/badge/macOS-Sequoia-lightblue.svg)](https://www.apple.com/macos/macos-sequoia/) 
 [![OpenCore](https://img.shields.io/badge/OpenCore-1.0.8-blue)](https://github.com/acidanthera/OpenCorePkg)
-[![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
+[![License](https://img.shields.io/badge/license-Apache-red)](/LICENSE)
 
 <p align="center">
    <strong>Status: Maintained</strong>

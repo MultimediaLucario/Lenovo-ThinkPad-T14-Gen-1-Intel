@@ -49,7 +49,7 @@ This repo includes multiple EFI configuations for different macOS Versions.
 > **Note** The Sequoia configuration is still a work in progress as both Siri and video output are still not functional. Use ```EFI - Ventura``` instead for a better experience.
 
 <details>
-<summary><strong>💻 My Hardware</strong></summary>
+<summary><strong>💻 My Hardware 💻 </strong></summary>
 <br>
 These are the Hardware component I use. But this OpenCore configuation <strong>should still work</strong> with your device, even if the components are not equal.
 
@@ -69,7 +69,7 @@ These are the Hardware component I use. But this OpenCore configuation <strong>s
 </details>
 
 <details>  
-<summary><strong> 📸 Photos </strong></summary>
+<summary><strong> 📸 Photos 📸 </strong></summary>
 </br>
 
 <img width="3856" height="2169" alt="IMG_0846-Github" src="https://github.com/user-attachments/assets/471cdd77-9246-45bb-9a88-697b5c5c5c12" />

@@ -220,7 +220,7 @@ Now you can go through the install.
 4. After erasing, go back and select **Reinstall macOS** and follow the steps on your screen. The installation make take up to **2 hours**.
 >  **Note:** Your PC will restart multiple times. Just boot from USB and select your disk inside of OpenCore. (named macOS Installer or the disk name).
 5. Once you see the `Region selection` screen, you are good to proceed.
-6. Create your user accound and everything else.
+6. Create your user account and everything else.
 
 </details>
 

@@ -77,6 +77,8 @@ These are the Hardware component I use. But this OpenCore configuation <strong>s
 <img width="8057" height="4532" alt="IMG_0944" src="https://github.com/user-attachments/assets/90c0184f-6e50-47cb-b4c6-3cbd84c8a76f" />
 <img width="6666" height="3750" alt="IMG_0186" src="https://github.com/user-attachments/assets/75bf4869-8990-4448-b286-e308ed27e1c1" />
 <img width="2560" height="1440" alt="IMG_0979" src="https://github.com/user-attachments/assets/d9b833f3-5015-48f0-a8e8-952008ff0fde" />
+<img width="2560" height="1440" alt="IMG_1317" src="https://github.com/user-attachments/assets/e0675ff4-cdb9-485b-b335-328db0264652" />
+
 
 
 
